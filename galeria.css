@@ -2,7 +2,7 @@ body{
 background:#689bb9 ;
 }
 
-.galeriaarte img {
+.galeria img {
 	width: 400px;
 	margin:20px ;
 	border: 1px solid #484848;
@@ -20,3 +20,4 @@ opacity: 1;
 
 
 }
+
