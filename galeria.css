@@ -1,8 +1,8 @@
 body{
-background:#000 ;
+background:#689bb9 ;
 }
 
-.galeria img {
+.galeriaarte img {
 	width: 400px;
 	margin:20px ;
 	border: 1px solid #484848;
@@ -13,9 +13,9 @@ background:#000 ;
 
 }
 
-.galeria img:hover{
+.galeria:hover{
 
-border: 1px solid #fff;
+border: 1px solid #3adf19;
 opacity: 1;
 
 
